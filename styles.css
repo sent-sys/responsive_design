@@ -439,8 +439,8 @@
         height: 1600px;
     }
 
-    .services__card{
-        max-width: 80%;
+    .services__container{
+        max-width: 90%;
     }
 
     .services h1{
