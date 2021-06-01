@@ -439,14 +439,6 @@
         height: 1600px;
     }
 
-    .services__card{
-        max-width: 1000px;
-    }
-
-    .services__card:nth-child(2){
-        max-width: 1000px;
-    }
-
     .services h1{
         font-size: 2rem;
         margin-top: 12rem;
@@ -463,6 +455,10 @@
     }
 
     .services__card{
+        width: 300px;
+    }
+
+    .services__card:nth-child(2){
         width: 300px;
     }
 }
