@@ -297,7 +297,7 @@
     width: 80%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1125px) {
     .main__container{
         display:grid;
         grid-template-columns: auto;
