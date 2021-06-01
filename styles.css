@@ -328,7 +328,7 @@
     }
 }
 
-@media screen and (max-width: 4080px){
+@media screen and (max-width: 480px){
     .main__content h1{
         font-size: 2rem;
         margin-top: 3rem;
@@ -445,7 +445,7 @@
     }
 }
 
-@media  screen and (max-width: 480x) {
+@media  screen and (max-width: 480px) {
     .services{
         height: 1400px;
     }
