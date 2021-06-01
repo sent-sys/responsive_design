@@ -439,8 +439,12 @@
         height: 1600px;
     }
 
-    .services__container{
-        max-width: 90%;
+    .services__card{
+        max-width: 1000px;
+    }
+
+    .services__card:nth-child(2){
+        max-width: 1000px;
     }
 
     .services h1{
