@@ -437,6 +437,9 @@
 @media  screen and (max-width: 960px) {
     .services{
         height: 1600px;
+    }
+
+    .services__card{
         max-width: 1000px;
     }
 
